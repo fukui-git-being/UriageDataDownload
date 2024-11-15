@@ -7,6 +7,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+selenium = "^4.26.1"
+load-dotenv = "^0.1.0"
 
 
 [build-system]
